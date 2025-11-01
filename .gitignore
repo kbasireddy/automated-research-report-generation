@@ -12,5 +12,6 @@ wheels/
 .env
 logs
 archive
+venv/
 
 generated_report/
